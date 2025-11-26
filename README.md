@@ -1,4 +1,4 @@
-# 🛍 Walmart Purchase Behavior Analysis — Confidence Interval & Central Limit Theorem
+# 🛍 Walmart Purchase Behavior Analysis - Confidence Interval & Central Limit Theorem
 
 ## 🎯 Overview
 This project analyzes Walmart Black Friday purchase data to understand spending patterns across demographics — mainly gender — using **Confidence Interval and Central Limit Theorem (CLT)**–based statistical reasoning.  
